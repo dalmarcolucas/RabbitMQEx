@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send", "Send\Send.csproj", "{DE089CDE-6F5B-42F0-9E91-B722D13ECEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receive", "Receive\Receive.csproj", "{757043E0-DA7A-47A2-8D9F-60818C1B3068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE089CDE-6F5B-42F0-9E91-B722D13ECEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE089CDE-6F5B-42F0-9E91-B722D13ECEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE089CDE-6F5B-42F0-9E91-B722D13ECEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE089CDE-6F5B-42F0-9E91-B722D13ECEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757043E0-DA7A-47A2-8D9F-60818C1B3068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757043E0-DA7A-47A2-8D9F-60818C1B3068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757043E0-DA7A-47A2-8D9F-60818C1B3068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757043E0-DA7A-47A2-8D9F-60818C1B3068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
